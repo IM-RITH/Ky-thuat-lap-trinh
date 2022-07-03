@@ -1,3 +1,3 @@
-# Ky-thuat-lap-trinh
+# Kỹ thuật lập trình 
 
 Đây là source code của môn kỹ thuật lập trình bài 3....
